@@ -4,7 +4,7 @@ services:
   web:
     image: sample
     ports:
-      - 6001:6001
+      - 5010:5001
 
   db:
     image: mysql
