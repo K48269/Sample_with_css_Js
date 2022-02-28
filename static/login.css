@@ -1,0 +1,15 @@
+#para1 {
+    text-align: center;
+    color: green;
+  }
+  #para2 {
+    text-align: center;
+    color: green;
+  }
+
+.bg-gradient{
+    color: brown;
+}
+body {
+  background-image: url('/static/green-background-4.png');
+}

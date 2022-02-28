@@ -1,0 +1,21 @@
+body {
+    background-image: url("/static/one.jpg");
+    height: 100%; 
+  }
+
+#Employee-portal{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color:black;
+}
+
+.w3-tag{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+#user{
+    background-color: aqua; 
+ }
+#dddd{
+    background-color: brown;
+}
